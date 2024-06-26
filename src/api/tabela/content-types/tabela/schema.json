@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tabelas",
+  "info": {
+    "singularName": "tabela",
+    "pluralName": "tabelas",
+    "displayName": "Tabela"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "menorpreco": {
+      "type": "string"
+    },
+    "distancia": {
+      "type": "string"
+    },
+    "DURACAO": {
+      "type": "string"
+    }
+  }
+}
